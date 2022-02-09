@@ -1,0 +1,87 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    
+}
+
+h1.title{
+    margin:auto;
+    color: #FFFFFF;
+    font-family: 'Imperial Script', cursive;
+    font-size: 100px;
+    text-align: center;
+    
+    
+}
+p{
+    font-size: 15px;
+}
+.center{
+    text-align: center;
+}
+p.subtitle{
+    font-size: 20px;
+    text-align: center;
+}
+h3.title{
+    font-family: 'Imperial Script', cursive; 
+    text-align: center;
+    font-size: 50px;
+
+}
+
+p{ 
+    font-family: 'Quicksand', sans-serif;
+}
+.home {
+    /* The image used */
+   /* background-image: url("../images/fondo-01.png");*/
+    
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.block {
+    background-color: #FFFFFF;
+    opacity: 70%;
+   
+}
+
+.rounds{
+    height: 100px;
+    width: 100px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10%;
+
+
+
+    
+}
+.info {
+    width: 70%;
+    height: 100%;
+    background-color: #FAF7F3;
+    margin: auto;
+}
+
+.section {
+    /* The image used */
+    background-color:#FAF7F3;
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
